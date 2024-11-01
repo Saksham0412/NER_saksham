@@ -35,7 +35,7 @@ The CoNLL-2003 dataset can be accessed and downloaded [here](https://paperswithc
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/NER_saksham.git
+   git clone https://github.com/saksham0412/NER_saksham.git
 ## Steps to Run
 
 1. **Download and Extract the Dataset**  
